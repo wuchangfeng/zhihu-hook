@@ -14,15 +14,5 @@ Google Chrome --> 设置 --> 扩展程序--> 勾选开发者模式-->将 ZhiHuHo
 
 ### Use
 
-安装好了插件之后，一旦符合上述规则，就会弹出提示：
-
-![](http://ww3.sinaimg.cn/large/006dXScfjw1f8w90fyd6cj30x70ldag9.jpg)
-
-接着就可以点击左上角的按钮，开始看图：
-
-![](http://ww4.sinaimg.cn/large/006dXScfjw1f8w913og25j30yn0ikdjh.jpg)
-
-Gif 动图如下
-
 ![](http://7xrl8j.com1.z0.glb.clouddn.com/aa.gif)
 

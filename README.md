@@ -10,7 +10,7 @@
 
 ### Install
 
-[扩展的安装过程](https://github.com/wuchangfeng/ChromeAppDev)
+Google Chrome --> 设置 --> 扩展程序--> 勾选开发者模式-->将 ZhiHuHook.crx 拖动到当前页面即可安装。
 
 ### Use
 

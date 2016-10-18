@@ -21,3 +21,8 @@
 接着就可以点击左上角的按钮，开始看图：
 
 ![](http://ww4.sinaimg.cn/large/006dXScfjw1f8w913og25j30yn0ikdjh.jpg)
+
+Gif 动图如下
+
+![](http://7xrl8j.com1.z0.glb.clouddn.com/aa.gif)
+

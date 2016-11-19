@@ -3,8 +3,8 @@
   "version": "0.1.1",
   "description": "知乎鱼钩：钓鱼问题好帮手",
   "background": {
-    "scripts": ["background.js"],
-    "persistent": true
+    "scripts": ["js/background.js"],
+    "persistent":true
   },
   "homepage_url": "http://xlzd.me",
   "offline_enabled": false,
@@ -14,14 +14,14 @@
     "https://www.zhihu.com/question/*"
   ],
   "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
+    "16": "img/icon.png",
+    "48": "img/icon.png",
+    "128": "img/icon.png"
   },
   "page_action": {
     "default_icon": {
-      "19": "icon.png",
-      "38": "icon.png"
+      "19": "img/icon.png",
+      "38": "img/icon.png"
     },
     "default_title": "知乎鱼钩：钓鱼问题好帮手",
     "default_popup": "description.html"
@@ -29,8 +29,8 @@
   "content_scripts": [
     {
       "matches": ["https://www.zhihu.com/question/*"],
-      "js": ["jquery-2.1.4.min.js", "main.js"],
-      "css": ["main.css"]
+      "js": ["js/jquery-2.1.4.min.js", "js/main.js"],
+      "css": ["css/main.css"]
     }
   ],
   "manifest_version": 2
